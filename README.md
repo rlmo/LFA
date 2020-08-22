@@ -1,4 +1,4 @@
-# LFA
+# LFA - Projeto de faculdade
 Máquina de venda - Linguagens Formais e Autômatos
 Rodrigo Luis Manzieri Oliveira - RGM 17467152
 
